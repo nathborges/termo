@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#6e5c62</color>
+
+    <color name="background_dark">#312b2d</color>
+    <color name="keyboard_color">#4c4347</color>
+    <color name="blue">#009afe</color>
+    <color name="yellow">#d3ad69</color>
+    <color name="green">#3aa294</color>
+    <color name="dark_letter_color">#312a2c</color>
+    <color name="container">#615459</color>
+    <color name="grey">#bbbbbb</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

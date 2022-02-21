@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TERMO</string>
+    <string name="app_name_lowcase">Termo</string>
+    <string name="insert_instructions">Insira o novo termo desejado</string>
+    <string name="rule_1">O termo deve possuir 5 letras.</string>
+    <string name="rule_2">O termo deve ser uma palavra válida.</string>
+    <string name="rule_3">O termo não deve possuir caracteres especiais ou números.</string>
+    <string name="rule_4">Caso a palavra tenha acento, o acento será ignorado.</string>
+    <string name="text_user_win">fantástico!</string>
+    <string name="text_user_game_over">palavra certa:</string>
+    <string name="instructions">Descubra a palavra certa em 6 tentativas. Depois de cada tentativa, as peças mostram o quão perto voce está da solução.</string>
+    <string name="instructions_2">A letra T faz parte da palavra e está na posição correta.</string>
+    <string name="instructions_3">A letra O faz parte da palavra, mas em outra posição.</string>
+    <string name="instructions_4">A letra G não faz parte da palavra.</string>
+    <string name="instructions_5">Uma palavra aparece a cada dia.</string>
+    <string name="link">Original <a>term.ooo</a></string>
+</resources>
